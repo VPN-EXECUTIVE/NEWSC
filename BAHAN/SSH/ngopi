@@ -199,13 +199,13 @@ width: 100%;
 content: 'SSH WS';
 }
 .VLESS:after {
-content: 'VLESS WS';
+content: 'VLESS-WS';
 }
 .VMESS:after {
-content: 'VMESS WS';
+content: 'VMESS-WS';
 }
 .TROJAN:after {
-content: 'TROJAN WSS & GRPC';
+content: 'TROJAN-WS';
 }
 .ZIP:after {
 content: 'ZIP';
@@ -231,7 +231,7 @@ width: 81em;
 ​</style>
 <header>
 <div>
-<a href="https://www.dotycat.com/">&larr; Back to Dotycat</a>
+<a href="https://www.dotycat.com/">&larr; Back to Baca-Baca</a>
 </div>
 </header>
 <h1>VPN-EXECUTIVE STORE</h1>
@@ -240,8 +240,8 @@ width: 81em;
 <li>
 <i class="icon SSH & OVPN"></i>
 <p>WSS PORT 443<br/>
-IDR 10k / 30D For Android<br/>
-IDR 20k / 30D For STB<br/>
+IDR 15k / 30D For Android<br/>
+IDR 15k / 30D For STB<br/>
 Ready Server Singapore<br/>
 Dan Server Indonesia<br/>
 <a href="wa.me/6281333167340/">BUY NOW</a>
@@ -249,8 +249,8 @@ Dan Server Indonesia<br/>
 <li>
 <i class="icon XRAY-VMESS"></i>
 <p>Service WSS & GRPC PORT 443/80<br/>
-IDR 10k / 30D For Android<br/>
-IDR 20k / 30D For STB<br/>
+IDR 15k / 30D For Android<br/>
+IDR 15k / 30D For STB<br/>
 Ready Server Singapore<br/>
 Dan Server Indonesia<br/>
 <a href="wa.me/6281333167340/">BUY NOW</a>
@@ -258,8 +258,8 @@ Dan Server Indonesia<br/>
 <li>
 <i class="icon XRAY-VLESS"></i>
 <p>Service WSS & GRPC PORT 443/80<br/>
-IDR 10k / 30D For Android<br/>
-IDR 20k / 30D For STB<br/>
+IDR 15k / 30D For Android<br/>
+IDR 15k / 30D For STB<br/>
 Ready Server Singapore<br/>
 Dan Server Indonesia<br/>
 <a href="wa.me/6281333167340/">BUY NOW</a>
@@ -267,8 +267,8 @@ Dan Server Indonesia<br/>
 <li>
 <i class="icon XRAY-TROJAN"></i>
 <p>Service WSS & GRPC PORT 443/80<br/>
-IDR 10k / 30D For Android<br/>
-IDR 20k / 30D For STB<br/>
+IDR 15k / 30D For Android<br/>
+IDR 15k / 30D For STB<br/>
 Ready Server Singapore<br/>
 Dan Server Indonesia<br/>
 <a href="wa.me/6281333167340/">BUY NOW</a>
